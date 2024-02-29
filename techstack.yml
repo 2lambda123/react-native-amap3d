@@ -2,7 +2,7 @@ repo_name: 2lambda123/react-native-amap3d
 report_id: cacfbb70bd4e9e933a6e9a86681e6536
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T06:58:04+00:00'
+timestamp: '2024-02-29T19:17:19+00:00'
 requested_by: qiuxiang
 provider: github
 branch: main
@@ -52,7 +52,7 @@ tools:
   detection_source_url: https://github.com/2lambda123/react-native-amap3d
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
